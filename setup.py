@@ -23,7 +23,7 @@ with open("README.md", "r") as fh:
             python_requires=">=3.5",
             install_requires=REQUIRED,
             classifiers=["Programming Language :: Python :: 3",
-                         "License::OSI Approved :: MIT License",
+                         "License :: OSI Approved :: MIT License",
                          "Operating System :: OS Independent"
                          ])
 
